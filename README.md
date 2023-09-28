@@ -5,14 +5,14 @@ A customizable radial mouse cursor for enhancing user experience on your website
 ![Radial Mouse Cursor Preview]()
 
 ## Features
-- **Open the 'Radial Mouse Cursor.html' file in your web browser
--  reference link 'Radial.css'
 - **Customizable Design:** Tailor the appearance of the radial cursor to match your project's aesthetics.
 
 - **Interactive Elements:** Enhance user engagement with dynamic animations and visual feedback.
 
 - **Easy Integration:** Quickly add the radial cursor to your web application or website.
 
+- **Open the `Radial mouse cursor.html` file in your web browser
+-  reference link `radial.css`
 ## Demo
 
 For a live demonstration, visit [Radial Mouse Cursor Demo]([link_to_demo](https://cdn.dribbble.com/users/69200/screenshots/1778990/media/c4015b17a8ae4ac708397afef87da0a9.gif)).
